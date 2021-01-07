@@ -1,4 +1,4 @@
-require 'Pry'
+require 'pry'
 def nyc_pigeon_organizer(data)
-  binding.Pry
+  binding.pry
 end
