@@ -1,3 +1,4 @@
 def nyc_pigeon_organizer(data)
-data.find
+  pigeon_list = {}
+    data.find
 end
