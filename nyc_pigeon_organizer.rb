@@ -6,4 +6,5 @@ final results = data.each_with_object ({}) do | (key, value), final_array |
       if  !final_array[names]
         final_array[names] =  {}
       end
+      if !final_array[name]
 end
