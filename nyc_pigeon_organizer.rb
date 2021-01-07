@@ -7,5 +7,5 @@ def nyc_pigeon_organizer(data)
   Queenie = []
   Andrew = []
   Alex = []
-    data.find_all { 
+    data.find_all { | color |
 end
